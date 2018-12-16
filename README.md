@@ -1,3 +1,5 @@
+>对细节不了解的朋友，可以参考这篇博客： https://blog.csdn.net/sinat_24143931/article/details/78673615
+
 ## 1. 训练过程
 ### 1.1 下载数据
 下载Wider_face，解压后放入data目录；
