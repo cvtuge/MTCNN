@@ -19,5 +19,5 @@
 运行demo.p y
 
 ## 3. 最后
-因为时间关系，这个代码仅仅训练了PNet和ONet，RNet和关键点的训练，以后有时间我也训练下。**欢迎对人工智能有兴趣的朋友，扫一扫下面的二维码，添加我的微信，跟我交流**
+因为时间关系，这个代码仅仅训练了PNet和ONet，RNet和关键点的训练，以后有时间我也训练下。**欢迎对人工智能有兴趣的朋友，扫一扫下面的二维码，添加我的微信(微信号：tuge7893)，跟我交流**
 <img src="https://img-blog.csdnimg.cn/20181216165408677.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzI0MTQzOTMx,size_16,color_FFFFFF,t_70 "   width = 300 height = 300 div align=left/>
